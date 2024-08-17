@@ -1,4 +1,5 @@
 import streamlit as st 
+import pandas as pd
 
 st.title("Graphe DE Temperature ")
 place = st.text_input("Place: ")
